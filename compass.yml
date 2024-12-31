@@ -1,0 +1,16 @@
+name: my-npm-package
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/66d43fdd-a196-4d54-8745-5a20f1a44954
+description: This repository contains the source code for a sample npm package. The package provides a simple utility function, sayHello, which prints “Hello, World!” to the console. It serves as a basic example of how to create, publish, and manage an npm package.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/my-npm-package
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
